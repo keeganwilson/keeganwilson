@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @keeganwilson
 - 👀 I’m interested in learing all I can about coding.
-- 🌱 I’m currently learning JS
+- 🌱 I’m currently learning React and Redux
 - 💞️ I’m looking to collaborate on anything that helps me learn
 - 📫 How to reach me keegan.wilson@gmail.com
 
